@@ -18,8 +18,8 @@ To run the Dental Payment Application:
 
 ## Screenshots
 
-![Screenshot 1](./Screenshot 1.png)
-![Screenshot 2](./Screenshot 2.png)
+![Screenshot 1](./Screenshot1.png)
+![Screenshot 2](./Screenshot2.png)
 
 ## Credits
 
