@@ -27,4 +27,4 @@ To run the Dental Payment Application:
 
 ## Updates
 
-- Last update: **23 June 2021**
+- Last update: **23rd June 2021**
